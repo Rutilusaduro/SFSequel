@@ -1,0 +1,91 @@
+.localvar 0 arguments
+
+:[0]
+call.i io_clear(argc=0)
+popz.v
+pushi.e 0
+pop.v.i self.makearray
+pushi.e 1
+pop.v.i global.hidestats
+pushi.e 1
+pop.v.i global.hide_inventory
+pushi.e 1
+pop.v.i global.cutmusic
+pushi.e 0
+pop.v.i self.vmode
+pushi.e 0
+pop.v.i self.needarray
+pushi.e 0
+pushi.e -1
+pushi.e 0
+pop.v.i [array]self.needarray
+push.s "testscene"@347
+pop.v.s self.scene
+pushi.e 0
+pop.v.i self.turnoffbg
+pushi.e 0
+pop.v.i self.savespot
+pushi.e 0
+pop.v.i self.scenefeed
+pushi.e 0
+pop.v.i self.triedboss
+pushi.e 0
+pop.v.i self.triedyou
+pushi.e 0
+pop.v.i self.gameover
+pushi.e 0
+pop.v.i self.blamed
+pushi.e 0
+pop.v.i self.namearray
+push.s ""@150
+pushi.e -1
+pushi.e 0
+pop.v.s [array]self.namearray
+pushi.e 0
+pop.v.i global.text
+pushi.e 0
+pop.v.i global.line
+pushi.e 0
+pop.v.i self.confirm
+pushi.e 0
+pop.v.i self.showchloe
+pushi.e 0
+pop.v.i self.showpearl
+pushi.e 0
+pop.v.i self.showkathy
+pushi.e 0
+pop.v.i self.showjesse
+pushi.e 0
+pop.v.i self.showvik
+pushi.e 0
+pop.v.i self.showerika
+pushi.e 0
+pop.v.i self.showstacy
+pushi.e 0
+pop.v.i self.showpolly
+pushi.e 0
+pop.v.i self.showchloe_bg
+pushi.e 0
+pop.v.i self.showpearl_bg
+pushi.e 0
+pop.v.i self.showkathy_bg
+pushi.e 0
+pop.v.i self.showjesse_bg
+pushi.e 0
+pop.v.i self.showvik_bg
+pushi.e 0
+pop.v.i self.showerika_bg
+pushi.e 0
+pop.v.i self.showstacy_bg
+pushi.e 0
+pop.v.i self.showpolly_bg
+pushi.e 0
+pop.v.i self.showcafe
+push.v self.depth
+pushi.e 10000
+add.i.v
+pop.v.v self.depth
+call.i io_clear(argc=0)
+popz.v
+
+:[end]

@@ -2,6 +2,7 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_food_ramen",
+  "tags": [],
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -30,15 +31,15 @@
     {
       "resourceType": "GMSpriteFrame",
       "resourceVersion": "1.0",
-      "name": "af64c148-2572-403f-8541-767a155c8fe6",
+      "name": "6efb9177-4ec7-44a4-a2f8-d9d57ad6db08",
       "compositeImage": {
         "resourceType": "GMSpriteBitmap",
         "resourceVersion": "1.0",
         "name": "composite.png",
         "For3D": false,
         "FrameId": {
-          "name": "af64c148-2572-403f-8541-767a155c8fe6",
-          "path": "sprites/spr_food_ramen/frames/af64c148-2572-403f-8541-767a155c8fe6.yy"
+          "name": "6efb9177-4ec7-44a4-a2f8-d9d57ad6db08",
+          "path": "sprites/spr_food_ramen/frames/6efb9177-4ec7-44a4-a2f8-d9d57ad6db08.yy"
         },
         "LayerId": null
       },
@@ -49,12 +50,12 @@
           "name": "composite.png",
           "For3D": false,
           "FrameId": {
-            "name": "af64c148-2572-403f-8541-767a155c8fe6",
-            "path": "sprites/spr_food_ramen/frames/af64c148-2572-403f-8541-767a155c8fe6.yy"
+            "name": "6efb9177-4ec7-44a4-a2f8-d9d57ad6db08",
+            "path": "sprites/spr_food_ramen/frames/6efb9177-4ec7-44a4-a2f8-d9d57ad6db08.yy"
           },
           "LayerId": {
-            "name": "39f27348-6803-418d-9991-462f2cb3edab",
-            "path": "sprites/spr_food_ramen/layers/39f27348-6803-418d-9991-462f2cb3edab.yy"
+            "name": "7cd7dc2e-68c4-4363-abf6-c9e72589e29b",
+            "path": "sprites/spr_food_ramen/layers/7cd7dc2e-68c4-4363-abf6-c9e72589e29b.yy"
           }
         }
       ]
@@ -62,7 +63,7 @@
   ],
   "sequence": {
     "resourceType": "GMSequence",
-    "resourceVersion": "1.4",
+    "resourceVersion": "1.5",
     "name": "spr_food_ramen",
     "timeUnits": 1,
     "playback": 1,
@@ -92,7 +93,7 @@
             {
               "resourceType": "Keyframe<SpriteFrameKeyframe>",
               "resourceVersion": "1.0",
-              "id": "db298547-68e8-472c-9805-3367d33e077e",
+              "id": "e2a91a36-5b81-4a50-95af-cfc9060ccb5e",
               "Key": 0.0,
               "Length": 1.0,
               "Stretch": false,
@@ -103,8 +104,8 @@
                   "resourceType": "SpriteFrameKeyframe",
                   "resourceVersion": "1.0",
                   "Id": {
-                    "name": "af64c148-2572-403f-8541-767a155c8fe6",
-                    "path": "sprites/spr_food_ramen/frames/af64c148-2572-403f-8541-767a155c8fe6.yy"
+                    "name": "6efb9177-4ec7-44a4-a2f8-d9d57ad6db08",
+                    "path": "sprites/spr_food_ramen/frames/6efb9177-4ec7-44a4-a2f8-d9d57ad6db08.yy"
                   }
                 }
               }
@@ -147,7 +148,7 @@
     {
       "resourceType": "GMImageLayer",
       "resourceVersion": "1.0",
-      "name": "39f27348-6803-418d-9991-462f2cb3edab",
+      "name": "7cd7dc2e-68c4-4363-abf6-c9e72589e29b",
       "visible": true,
       "isLocked": false,
       "blendMode": 0,

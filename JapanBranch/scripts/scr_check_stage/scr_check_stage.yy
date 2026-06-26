@@ -4,6 +4,7 @@
   "name": "scr_check_stage",
   "isCompatibility": false,
   "isDnD": false,
+  "tags": [],
   "parent": {
     "name": "Scripts",
     "path": "folders/Scripts.yy"

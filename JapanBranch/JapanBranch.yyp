@@ -1,6 +1,6 @@
 {
   "resourceType": "GMProject",
-  "resourceVersion": "1.7",
+  "resourceVersion": "2.0",
   "name": "JapanBranch",
   "configs": {
     "name": "Default",
@@ -690,7 +690,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2023.8.2.75"
+    "IDEVersion": "2024.11.0.295"
   },
   "parent": {
     "name": "JapanBranch",

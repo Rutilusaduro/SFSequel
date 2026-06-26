@@ -2,6 +2,7 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_bg_exec",
+  "tags": [],
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -30,15 +31,15 @@
     {
       "resourceType": "GMSpriteFrame",
       "resourceVersion": "1.0",
-      "name": "f1806f44-1506-495e-802b-fc121aa63497",
+      "name": "be32c960-a82d-4228-9280-7931269d9968",
       "compositeImage": {
         "resourceType": "GMSpriteBitmap",
         "resourceVersion": "1.0",
         "name": "composite.png",
         "For3D": false,
         "FrameId": {
-          "name": "f1806f44-1506-495e-802b-fc121aa63497",
-          "path": "sprites/spr_bg_exec/frames/f1806f44-1506-495e-802b-fc121aa63497.yy"
+          "name": "be32c960-a82d-4228-9280-7931269d9968",
+          "path": "sprites/spr_bg_exec/frames/be32c960-a82d-4228-9280-7931269d9968.yy"
         },
         "LayerId": null
       },
@@ -49,12 +50,12 @@
           "name": "composite.png",
           "For3D": false,
           "FrameId": {
-            "name": "f1806f44-1506-495e-802b-fc121aa63497",
-            "path": "sprites/spr_bg_exec/frames/f1806f44-1506-495e-802b-fc121aa63497.yy"
+            "name": "be32c960-a82d-4228-9280-7931269d9968",
+            "path": "sprites/spr_bg_exec/frames/be32c960-a82d-4228-9280-7931269d9968.yy"
           },
           "LayerId": {
-            "name": "6d693d45-1b1a-4169-a0cf-4497912d1f1d",
-            "path": "sprites/spr_bg_exec/layers/6d693d45-1b1a-4169-a0cf-4497912d1f1d.yy"
+            "name": "500474d2-4dc1-4c14-8830-598271bbd0be",
+            "path": "sprites/spr_bg_exec/layers/500474d2-4dc1-4c14-8830-598271bbd0be.yy"
           }
         }
       ]
@@ -62,7 +63,7 @@
   ],
   "sequence": {
     "resourceType": "GMSequence",
-    "resourceVersion": "1.4",
+    "resourceVersion": "1.5",
     "name": "spr_bg_exec",
     "timeUnits": 1,
     "playback": 1,
@@ -92,7 +93,7 @@
             {
               "resourceType": "Keyframe<SpriteFrameKeyframe>",
               "resourceVersion": "1.0",
-              "id": "38de8b73-9187-4cd6-853e-9044197f18c8",
+              "id": "c6699cee-704b-48d1-9fff-f50ebad024f5",
               "Key": 0.0,
               "Length": 1.0,
               "Stretch": false,
@@ -103,8 +104,8 @@
                   "resourceType": "SpriteFrameKeyframe",
                   "resourceVersion": "1.0",
                   "Id": {
-                    "name": "f1806f44-1506-495e-802b-fc121aa63497",
-                    "path": "sprites/spr_bg_exec/frames/f1806f44-1506-495e-802b-fc121aa63497.yy"
+                    "name": "be32c960-a82d-4228-9280-7931269d9968",
+                    "path": "sprites/spr_bg_exec/frames/be32c960-a82d-4228-9280-7931269d9968.yy"
                   }
                 }
               }
@@ -147,7 +148,7 @@
     {
       "resourceType": "GMImageLayer",
       "resourceVersion": "1.0",
-      "name": "6d693d45-1b1a-4169-a0cf-4497912d1f1d",
+      "name": "500474d2-4dc1-4c14-8830-598271bbd0be",
       "visible": true,
       "isLocked": false,
       "blendMode": 0,

@@ -108,6 +108,7 @@ def make_sprite(name: str, w: int, h: int, r: int, g: int, b: int,
         "resourceType": "GMSprite",
         "resourceVersion": "1.0",
         "name": name,
+        "tags": [],
         "bboxMode": 0,
         "collisionKind": 1,
         "type": 0,
@@ -141,7 +142,7 @@ def make_sprite(name: str, w: int, h: int, r: int, g: int, b: int,
             }]
         }],
         "sequence": {
-            "resourceType": "GMSequence", "resourceVersion": "1.4",
+            "resourceType": "GMSequence", "resourceVersion": "1.5",
             "name": name, "timeUnits": 1, "playback": 1,
             "playbackSpeed": 15.0, "playbackSpeedType": 0,
             "autoRecord": True, "volume": 1.0, "length": 1.0,
@@ -214,6 +215,7 @@ def make_script(name: str, code: str, parent_folder: str = "Scripts") -> None:
     yy = {
         "resourceType": "GMScript", "resourceVersion": "1.0",
         "name": name, "isCompatibility": False, "isDnD": False,
+        "tags": [],
         "parent": folder_ref(parent_folder)
     }
     write(f"scripts/{name}/{name}.yy", jdump(yy))
@@ -261,6 +263,8 @@ def make_object(name: str, events: dict, parent_folder: str = "Objects",
         "physicsShapePoints": [],
         "eventList": event_list,
         "properties": [], "overriddenProperties": [],
+        "managed": False,
+        "tags": [],
         "parent": folder_ref(parent_folder)
     }
     write(f"objects/{name}/{name}.yy", jdump(yy))
@@ -298,7 +302,8 @@ def make_room(name: str, instances: list[dict], bg_sprite: str = None,
     layers = [
         {
             "resourceType": "GMRInstanceLayer", "resourceVersion": "1.0",
-            "name": "Instances", "depth": 0, "visible": True,
+            "name": "Instances", "tags": [],
+            "depth": 0, "visible": True,
             "userdefinedDepth": False, "inheritLayerDepth": False,
             "inheritLayerSettings": False, "gridX": 32, "gridY": 32,
             "layers": [], "hierarchyFrozen": False,
@@ -307,7 +312,8 @@ def make_room(name: str, instances: list[dict], bg_sprite: str = None,
         },
         {
             "resourceType": "GMRInstanceLayer", "resourceVersion": "1.0",
-            "name": "UI", "depth": -100, "visible": True,
+            "name": "UI", "tags": [],
+            "depth": -100, "visible": True,
             "userdefinedDepth": False, "inheritLayerDepth": False,
             "inheritLayerSettings": False, "gridX": 32, "gridY": 32,
             "layers": [], "hierarchyFrozen": False,
@@ -316,7 +322,8 @@ def make_room(name: str, instances: list[dict], bg_sprite: str = None,
         },
         {
             "resourceType": "GMRBackgroundLayer", "resourceVersion": "1.0",
-            "name": "Background", "depth": 100, "visible": True,
+            "name": "Background", "tags": [],
+            "depth": 100, "visible": True,
             "userdefinedDepth": False, "inheritLayerDepth": False,
             "inheritLayerSettings": False, "gridX": 32, "gridY": 32,
             "layers": [], "hierarchyFrozen": False,
@@ -331,7 +338,8 @@ def make_room(name: str, instances: list[dict], bg_sprite: str = None,
 
     room_yy = {
         "resourceType": "GMRoom", "resourceVersion": "1.0",
-        "name": name, "isDnD": False, "volume": 1.0, "parentRoom": None,
+        "name": name, "tags": [],
+        "isDnD": False, "volume": 1.0, "parentRoom": None,
         "views": [{"resourceType":"GMRView","resourceVersion":"1.0",
                    "visible":False,"xview":0,"yview":0,"wview":W,"hview":H,
                    "xport":0,"yport":0,"wport":W,"hport":H,
@@ -1609,7 +1617,7 @@ def main():
     # ── .yyp project file ─────────────────────────────────────────────────────
     yyp = {
         "resourceType": "GMProject",
-        "resourceVersion": "1.7",
+        "resourceVersion": "2.0",
         "name": PROJECT,
         "configs": {"name": "Default", "children": []},
         "defaultScriptType": 1,
@@ -1629,7 +1637,7 @@ def main():
             "parent": {"name": PROJECT, "path": f"{PROJECT}.yyp"}
         }],
         "IncludedFiles": [],
-        "MetaData": {"IDEVersion": "2023.8.2.75"},
+        "MetaData": {"IDEVersion": "2024.11.0.295"},
         "parent": {"name": PROJECT, "path": f"{PROJECT}.yyp"}
     }
     write(f"{PROJECT}.yyp", jdump(yyp))

@@ -2,6 +2,7 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_bg_vendroom",
+  "tags": [],
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -30,15 +31,15 @@
     {
       "resourceType": "GMSpriteFrame",
       "resourceVersion": "1.0",
-      "name": "e594d8ae-a086-48e2-b7bc-243bcd470e29",
+      "name": "2e6f09b5-1618-47f6-89ca-e306775ceb36",
       "compositeImage": {
         "resourceType": "GMSpriteBitmap",
         "resourceVersion": "1.0",
         "name": "composite.png",
         "For3D": false,
         "FrameId": {
-          "name": "e594d8ae-a086-48e2-b7bc-243bcd470e29",
-          "path": "sprites/spr_bg_vendroom/frames/e594d8ae-a086-48e2-b7bc-243bcd470e29.yy"
+          "name": "2e6f09b5-1618-47f6-89ca-e306775ceb36",
+          "path": "sprites/spr_bg_vendroom/frames/2e6f09b5-1618-47f6-89ca-e306775ceb36.yy"
         },
         "LayerId": null
       },
@@ -49,12 +50,12 @@
           "name": "composite.png",
           "For3D": false,
           "FrameId": {
-            "name": "e594d8ae-a086-48e2-b7bc-243bcd470e29",
-            "path": "sprites/spr_bg_vendroom/frames/e594d8ae-a086-48e2-b7bc-243bcd470e29.yy"
+            "name": "2e6f09b5-1618-47f6-89ca-e306775ceb36",
+            "path": "sprites/spr_bg_vendroom/frames/2e6f09b5-1618-47f6-89ca-e306775ceb36.yy"
           },
           "LayerId": {
-            "name": "e4722173-94b0-44d3-8e1a-60ff73236f60",
-            "path": "sprites/spr_bg_vendroom/layers/e4722173-94b0-44d3-8e1a-60ff73236f60.yy"
+            "name": "9f8f4bde-34c2-4ddc-bac0-67464cb7a973",
+            "path": "sprites/spr_bg_vendroom/layers/9f8f4bde-34c2-4ddc-bac0-67464cb7a973.yy"
           }
         }
       ]
@@ -62,7 +63,7 @@
   ],
   "sequence": {
     "resourceType": "GMSequence",
-    "resourceVersion": "1.4",
+    "resourceVersion": "1.5",
     "name": "spr_bg_vendroom",
     "timeUnits": 1,
     "playback": 1,
@@ -92,7 +93,7 @@
             {
               "resourceType": "Keyframe<SpriteFrameKeyframe>",
               "resourceVersion": "1.0",
-              "id": "3dc79bcc-d632-4ed9-b821-8f51be117d48",
+              "id": "49d5fce1-d902-4d07-9deb-ddedfcdcaf8f",
               "Key": 0.0,
               "Length": 1.0,
               "Stretch": false,
@@ -103,8 +104,8 @@
                   "resourceType": "SpriteFrameKeyframe",
                   "resourceVersion": "1.0",
                   "Id": {
-                    "name": "e594d8ae-a086-48e2-b7bc-243bcd470e29",
-                    "path": "sprites/spr_bg_vendroom/frames/e594d8ae-a086-48e2-b7bc-243bcd470e29.yy"
+                    "name": "2e6f09b5-1618-47f6-89ca-e306775ceb36",
+                    "path": "sprites/spr_bg_vendroom/frames/2e6f09b5-1618-47f6-89ca-e306775ceb36.yy"
                   }
                 }
               }
@@ -147,7 +148,7 @@
     {
       "resourceType": "GMImageLayer",
       "resourceVersion": "1.0",
-      "name": "e4722173-94b0-44d3-8e1a-60ff73236f60",
+      "name": "9f8f4bde-34c2-4ddc-bac0-67464cb7a973",
       "visible": true,
       "isLocked": false,
       "blendMode": 0,

@@ -2,6 +2,7 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_seasnake",
+  "tags": [],
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -30,15 +31,15 @@
     {
       "resourceType": "GMSpriteFrame",
       "resourceVersion": "1.0",
-      "name": "1779d2df-f459-4747-aaad-3d5105bc8d85",
+      "name": "e0fdf03d-4d00-49a6-bab5-e08b7249a8a3",
       "compositeImage": {
         "resourceType": "GMSpriteBitmap",
         "resourceVersion": "1.0",
         "name": "composite.png",
         "For3D": false,
         "FrameId": {
-          "name": "1779d2df-f459-4747-aaad-3d5105bc8d85",
-          "path": "sprites/spr_seasnake/frames/1779d2df-f459-4747-aaad-3d5105bc8d85.yy"
+          "name": "e0fdf03d-4d00-49a6-bab5-e08b7249a8a3",
+          "path": "sprites/spr_seasnake/frames/e0fdf03d-4d00-49a6-bab5-e08b7249a8a3.yy"
         },
         "LayerId": null
       },
@@ -49,12 +50,12 @@
           "name": "composite.png",
           "For3D": false,
           "FrameId": {
-            "name": "1779d2df-f459-4747-aaad-3d5105bc8d85",
-            "path": "sprites/spr_seasnake/frames/1779d2df-f459-4747-aaad-3d5105bc8d85.yy"
+            "name": "e0fdf03d-4d00-49a6-bab5-e08b7249a8a3",
+            "path": "sprites/spr_seasnake/frames/e0fdf03d-4d00-49a6-bab5-e08b7249a8a3.yy"
           },
           "LayerId": {
-            "name": "da7756b1-de4c-4ce7-91ea-7e98a11f21f1",
-            "path": "sprites/spr_seasnake/layers/da7756b1-de4c-4ce7-91ea-7e98a11f21f1.yy"
+            "name": "9369da04-9e74-4b0e-ba1c-b00c151581a0",
+            "path": "sprites/spr_seasnake/layers/9369da04-9e74-4b0e-ba1c-b00c151581a0.yy"
           }
         }
       ]
@@ -62,7 +63,7 @@
   ],
   "sequence": {
     "resourceType": "GMSequence",
-    "resourceVersion": "1.4",
+    "resourceVersion": "1.5",
     "name": "spr_seasnake",
     "timeUnits": 1,
     "playback": 1,
@@ -92,7 +93,7 @@
             {
               "resourceType": "Keyframe<SpriteFrameKeyframe>",
               "resourceVersion": "1.0",
-              "id": "79885b80-a359-47fd-94ed-fa88b4545353",
+              "id": "fe7daa17-f92d-4162-a7b9-0b04996ecf05",
               "Key": 0.0,
               "Length": 1.0,
               "Stretch": false,
@@ -103,8 +104,8 @@
                   "resourceType": "SpriteFrameKeyframe",
                   "resourceVersion": "1.0",
                   "Id": {
-                    "name": "1779d2df-f459-4747-aaad-3d5105bc8d85",
-                    "path": "sprites/spr_seasnake/frames/1779d2df-f459-4747-aaad-3d5105bc8d85.yy"
+                    "name": "e0fdf03d-4d00-49a6-bab5-e08b7249a8a3",
+                    "path": "sprites/spr_seasnake/frames/e0fdf03d-4d00-49a6-bab5-e08b7249a8a3.yy"
                   }
                 }
               }
@@ -147,7 +148,7 @@
     {
       "resourceType": "GMImageLayer",
       "resourceVersion": "1.0",
-      "name": "da7756b1-de4c-4ce7-91ea-7e98a11f21f1",
+      "name": "9369da04-9e74-4b0e-ba1c-b00c151581a0",
       "visible": true,
       "isLocked": false,
       "blendMode": 0,

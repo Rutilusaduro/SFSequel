@@ -4,6 +4,7 @@
   "name": "scr_callscene",
   "isCompatibility": false,
   "isDnD": false,
+  "tags": [],
   "parent": {
     "name": "Scripts",
     "path": "folders/Scripts.yy"

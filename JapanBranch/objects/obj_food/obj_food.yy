@@ -54,6 +54,8 @@
   ],
   "properties": [],
   "overriddenProperties": [],
+  "managed": false,
+  "tags": [],
   "parent": {
     "name": "Objects",
     "path": "folders/Objects.yy"

@@ -2,6 +2,7 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_food_kaiseki",
+  "tags": [],
   "bboxMode": 0,
   "collisionKind": 1,
   "type": 0,
@@ -30,15 +31,15 @@
     {
       "resourceType": "GMSpriteFrame",
       "resourceVersion": "1.0",
-      "name": "6d0d338a-8410-4581-9fd5-b7485f5e4382",
+      "name": "7c31d2c9-ae4b-4470-9423-c46d55e431c9",
       "compositeImage": {
         "resourceType": "GMSpriteBitmap",
         "resourceVersion": "1.0",
         "name": "composite.png",
         "For3D": false,
         "FrameId": {
-          "name": "6d0d338a-8410-4581-9fd5-b7485f5e4382",
-          "path": "sprites/spr_food_kaiseki/frames/6d0d338a-8410-4581-9fd5-b7485f5e4382.yy"
+          "name": "7c31d2c9-ae4b-4470-9423-c46d55e431c9",
+          "path": "sprites/spr_food_kaiseki/frames/7c31d2c9-ae4b-4470-9423-c46d55e431c9.yy"
         },
         "LayerId": null
       },
@@ -49,12 +50,12 @@
           "name": "composite.png",
           "For3D": false,
           "FrameId": {
-            "name": "6d0d338a-8410-4581-9fd5-b7485f5e4382",
-            "path": "sprites/spr_food_kaiseki/frames/6d0d338a-8410-4581-9fd5-b7485f5e4382.yy"
+            "name": "7c31d2c9-ae4b-4470-9423-c46d55e431c9",
+            "path": "sprites/spr_food_kaiseki/frames/7c31d2c9-ae4b-4470-9423-c46d55e431c9.yy"
           },
           "LayerId": {
-            "name": "fea40685-d661-4d26-a9ad-a70bd42829f5",
-            "path": "sprites/spr_food_kaiseki/layers/fea40685-d661-4d26-a9ad-a70bd42829f5.yy"
+            "name": "740c577d-d004-47fc-a02c-ef361799a29b",
+            "path": "sprites/spr_food_kaiseki/layers/740c577d-d004-47fc-a02c-ef361799a29b.yy"
           }
         }
       ]
@@ -62,7 +63,7 @@
   ],
   "sequence": {
     "resourceType": "GMSequence",
-    "resourceVersion": "1.4",
+    "resourceVersion": "1.5",
     "name": "spr_food_kaiseki",
     "timeUnits": 1,
     "playback": 1,
@@ -92,7 +93,7 @@
             {
               "resourceType": "Keyframe<SpriteFrameKeyframe>",
               "resourceVersion": "1.0",
-              "id": "41ebe87f-6a6b-4413-820c-11f02e62623d",
+              "id": "84c0c1ee-dc1c-457e-93ce-20f53ad725dc",
               "Key": 0.0,
               "Length": 1.0,
               "Stretch": false,
@@ -103,8 +104,8 @@
                   "resourceType": "SpriteFrameKeyframe",
                   "resourceVersion": "1.0",
                   "Id": {
-                    "name": "6d0d338a-8410-4581-9fd5-b7485f5e4382",
-                    "path": "sprites/spr_food_kaiseki/frames/6d0d338a-8410-4581-9fd5-b7485f5e4382.yy"
+                    "name": "7c31d2c9-ae4b-4470-9423-c46d55e431c9",
+                    "path": "sprites/spr_food_kaiseki/frames/7c31d2c9-ae4b-4470-9423-c46d55e431c9.yy"
                   }
                 }
               }
@@ -147,7 +148,7 @@
     {
       "resourceType": "GMImageLayer",
       "resourceVersion": "1.0",
-      "name": "fea40685-d661-4d26-a9ad-a70bd42829f5",
+      "name": "740c577d-d004-47fc-a02c-ef361799a29b",
       "visible": true,
       "isLocked": false,
       "blendMode": 0,

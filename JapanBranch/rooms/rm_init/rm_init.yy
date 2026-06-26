@@ -2,6 +2,7 @@
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
   "name": "rm_init",
+  "tags": [],
   "isDnD": false,
   "volume": 1.0,
   "parentRoom": null,
@@ -30,6 +31,7 @@
       "resourceType": "GMRInstanceLayer",
       "resourceVersion": "1.0",
       "name": "Instances",
+      "tags": [],
       "depth": 0,
       "visible": true,
       "userdefinedDepth": false,
@@ -46,7 +48,7 @@
         {
           "resourceType": "GMRInstance",
           "resourceVersion": "1.0",
-          "name": "inst_99c36df38dfb",
+          "name": "inst_f198ff986779",
           "properties": [],
           "isDnD": false,
           "objectId": {
@@ -68,7 +70,7 @@
           "x": 0.0,
           "y": 0.0,
           "id": {
-            "name": "inst_99c36df38dfb",
+            "name": "inst_f198ff986779",
             "path": "rooms/rm_init/rm_init.yy"
           }
         }
@@ -78,6 +80,7 @@
       "resourceType": "GMRInstanceLayer",
       "resourceVersion": "1.0",
       "name": "UI",
+      "tags": [],
       "depth": -100,
       "visible": true,
       "userdefinedDepth": false,
@@ -96,6 +99,7 @@
       "resourceType": "GMRBackgroundLayer",
       "resourceVersion": "1.0",
       "name": "Background",
+      "tags": [],
       "depth": 100,
       "visible": true,
       "userdefinedDepth": false,
@@ -155,7 +159,7 @@
   "inheritCode": false,
   "instanceCreationOrder": [
     {
-      "name": "inst_99c36df38dfb",
+      "name": "inst_f198ff986779",
       "path": "rooms/rm_init/rm_init.yy"
     }
   ],

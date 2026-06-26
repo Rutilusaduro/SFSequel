@@ -1,4 +1,5 @@
 {
+  "$GMSprite": "",
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_food_bento",
@@ -31,15 +32,15 @@
     {
       "resourceType": "GMSpriteFrame",
       "resourceVersion": "1.0",
-      "name": "636fda67-0e10-409a-9ca5-3c94529ce652",
+      "name": "6e430345-8d4a-4f5f-943d-952194e892d1",
       "compositeImage": {
         "resourceType": "GMSpriteBitmap",
         "resourceVersion": "1.0",
         "name": "composite.png",
         "For3D": false,
         "FrameId": {
-          "name": "636fda67-0e10-409a-9ca5-3c94529ce652",
-          "path": "sprites/spr_food_bento/frames/636fda67-0e10-409a-9ca5-3c94529ce652.yy"
+          "name": "6e430345-8d4a-4f5f-943d-952194e892d1",
+          "path": "sprites/spr_food_bento/frames/6e430345-8d4a-4f5f-943d-952194e892d1.yy"
         },
         "LayerId": null
       },
@@ -50,12 +51,12 @@
           "name": "composite.png",
           "For3D": false,
           "FrameId": {
-            "name": "636fda67-0e10-409a-9ca5-3c94529ce652",
-            "path": "sprites/spr_food_bento/frames/636fda67-0e10-409a-9ca5-3c94529ce652.yy"
+            "name": "6e430345-8d4a-4f5f-943d-952194e892d1",
+            "path": "sprites/spr_food_bento/frames/6e430345-8d4a-4f5f-943d-952194e892d1.yy"
           },
           "LayerId": {
-            "name": "6ba615e2-dbeb-4f40-97da-3e1b49e51ac6",
-            "path": "sprites/spr_food_bento/layers/6ba615e2-dbeb-4f40-97da-3e1b49e51ac6.yy"
+            "name": "08b4c4ef-197c-48c5-b250-dc1377db25de",
+            "path": "sprites/spr_food_bento/layers/08b4c4ef-197c-48c5-b250-dc1377db25de.yy"
           }
         }
       ]
@@ -93,7 +94,7 @@
             {
               "resourceType": "Keyframe<SpriteFrameKeyframe>",
               "resourceVersion": "1.0",
-              "id": "17e9f187-d2c6-4876-aabb-becce3bd4f33",
+              "id": "3b23b372-6333-4148-8fdf-8613fdebebc3",
               "Key": 0.0,
               "Length": 1.0,
               "Stretch": false,
@@ -104,8 +105,8 @@
                   "resourceType": "SpriteFrameKeyframe",
                   "resourceVersion": "1.0",
                   "Id": {
-                    "name": "636fda67-0e10-409a-9ca5-3c94529ce652",
-                    "path": "sprites/spr_food_bento/frames/636fda67-0e10-409a-9ca5-3c94529ce652.yy"
+                    "name": "6e430345-8d4a-4f5f-943d-952194e892d1",
+                    "path": "sprites/spr_food_bento/frames/6e430345-8d4a-4f5f-943d-952194e892d1.yy"
                   }
                 }
               }
@@ -148,7 +149,7 @@
     {
       "resourceType": "GMImageLayer",
       "resourceVersion": "1.0",
-      "name": "6ba615e2-dbeb-4f40-97da-3e1b49e51ac6",
+      "name": "08b4c4ef-197c-48c5-b250-dc1377db25de",
       "visible": true,
       "isLocked": false,
       "blendMode": 0,

@@ -1,4 +1,5 @@
 {
+  "$GMTextureGroup": "",
   "resourceType": "GMTextureGroup",
   "resourceVersion": "1.0",
   "name": "Default",

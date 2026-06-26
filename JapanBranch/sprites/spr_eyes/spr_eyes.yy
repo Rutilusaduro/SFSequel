@@ -1,4 +1,5 @@
 {
+  "$GMSprite": "",
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_eyes",
@@ -31,15 +32,15 @@
     {
       "resourceType": "GMSpriteFrame",
       "resourceVersion": "1.0",
-      "name": "2209a58b-19de-4e49-b6ce-042ba825024f",
+      "name": "9af30eee-dd2c-4149-a0b7-fc941fb44086",
       "compositeImage": {
         "resourceType": "GMSpriteBitmap",
         "resourceVersion": "1.0",
         "name": "composite.png",
         "For3D": false,
         "FrameId": {
-          "name": "2209a58b-19de-4e49-b6ce-042ba825024f",
-          "path": "sprites/spr_eyes/frames/2209a58b-19de-4e49-b6ce-042ba825024f.yy"
+          "name": "9af30eee-dd2c-4149-a0b7-fc941fb44086",
+          "path": "sprites/spr_eyes/frames/9af30eee-dd2c-4149-a0b7-fc941fb44086.yy"
         },
         "LayerId": null
       },
@@ -50,12 +51,12 @@
           "name": "composite.png",
           "For3D": false,
           "FrameId": {
-            "name": "2209a58b-19de-4e49-b6ce-042ba825024f",
-            "path": "sprites/spr_eyes/frames/2209a58b-19de-4e49-b6ce-042ba825024f.yy"
+            "name": "9af30eee-dd2c-4149-a0b7-fc941fb44086",
+            "path": "sprites/spr_eyes/frames/9af30eee-dd2c-4149-a0b7-fc941fb44086.yy"
           },
           "LayerId": {
-            "name": "495d6fd0-457c-4d83-bddb-41504e19c0ed",
-            "path": "sprites/spr_eyes/layers/495d6fd0-457c-4d83-bddb-41504e19c0ed.yy"
+            "name": "1f982622-62d7-4876-ad07-6d7f59c3e20f",
+            "path": "sprites/spr_eyes/layers/1f982622-62d7-4876-ad07-6d7f59c3e20f.yy"
           }
         }
       ]
@@ -93,7 +94,7 @@
             {
               "resourceType": "Keyframe<SpriteFrameKeyframe>",
               "resourceVersion": "1.0",
-              "id": "88079d85-622e-4e86-93c6-bcd6c07b8508",
+              "id": "0f601dc6-4b4f-4d36-b807-0a133970c7b0",
               "Key": 0.0,
               "Length": 1.0,
               "Stretch": false,
@@ -104,8 +105,8 @@
                   "resourceType": "SpriteFrameKeyframe",
                   "resourceVersion": "1.0",
                   "Id": {
-                    "name": "2209a58b-19de-4e49-b6ce-042ba825024f",
-                    "path": "sprites/spr_eyes/frames/2209a58b-19de-4e49-b6ce-042ba825024f.yy"
+                    "name": "9af30eee-dd2c-4149-a0b7-fc941fb44086",
+                    "path": "sprites/spr_eyes/frames/9af30eee-dd2c-4149-a0b7-fc941fb44086.yy"
                   }
                 }
               }
@@ -148,7 +149,7 @@
     {
       "resourceType": "GMImageLayer",
       "resourceVersion": "1.0",
-      "name": "495d6fd0-457c-4d83-bddb-41504e19c0ed",
+      "name": "1f982622-62d7-4876-ad07-6d7f59c3e20f",
       "visible": true,
       "isLocked": false,
       "blendMode": 0,

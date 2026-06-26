@@ -1,4 +1,5 @@
 {
+  "$GMSprite": "",
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_food_sushi",
@@ -31,15 +32,15 @@
     {
       "resourceType": "GMSpriteFrame",
       "resourceVersion": "1.0",
-      "name": "90fd81b5-f36b-4bba-b5d4-714b7e988216",
+      "name": "5de00d5b-6f62-4d6d-960b-7183d1965243",
       "compositeImage": {
         "resourceType": "GMSpriteBitmap",
         "resourceVersion": "1.0",
         "name": "composite.png",
         "For3D": false,
         "FrameId": {
-          "name": "90fd81b5-f36b-4bba-b5d4-714b7e988216",
-          "path": "sprites/spr_food_sushi/frames/90fd81b5-f36b-4bba-b5d4-714b7e988216.yy"
+          "name": "5de00d5b-6f62-4d6d-960b-7183d1965243",
+          "path": "sprites/spr_food_sushi/frames/5de00d5b-6f62-4d6d-960b-7183d1965243.yy"
         },
         "LayerId": null
       },
@@ -50,12 +51,12 @@
           "name": "composite.png",
           "For3D": false,
           "FrameId": {
-            "name": "90fd81b5-f36b-4bba-b5d4-714b7e988216",
-            "path": "sprites/spr_food_sushi/frames/90fd81b5-f36b-4bba-b5d4-714b7e988216.yy"
+            "name": "5de00d5b-6f62-4d6d-960b-7183d1965243",
+            "path": "sprites/spr_food_sushi/frames/5de00d5b-6f62-4d6d-960b-7183d1965243.yy"
           },
           "LayerId": {
-            "name": "8254bcd9-87e3-4bd1-b4b7-a13f876e3cd7",
-            "path": "sprites/spr_food_sushi/layers/8254bcd9-87e3-4bd1-b4b7-a13f876e3cd7.yy"
+            "name": "9f8b8e8c-4807-41c8-982b-ab4eb8091148",
+            "path": "sprites/spr_food_sushi/layers/9f8b8e8c-4807-41c8-982b-ab4eb8091148.yy"
           }
         }
       ]
@@ -93,7 +94,7 @@
             {
               "resourceType": "Keyframe<SpriteFrameKeyframe>",
               "resourceVersion": "1.0",
-              "id": "1547978d-d582-4912-ba88-712497a08325",
+              "id": "615f50e2-2f48-462d-9349-5f610eec2ca7",
               "Key": 0.0,
               "Length": 1.0,
               "Stretch": false,
@@ -104,8 +105,8 @@
                   "resourceType": "SpriteFrameKeyframe",
                   "resourceVersion": "1.0",
                   "Id": {
-                    "name": "90fd81b5-f36b-4bba-b5d4-714b7e988216",
-                    "path": "sprites/spr_food_sushi/frames/90fd81b5-f36b-4bba-b5d4-714b7e988216.yy"
+                    "name": "5de00d5b-6f62-4d6d-960b-7183d1965243",
+                    "path": "sprites/spr_food_sushi/frames/5de00d5b-6f62-4d6d-960b-7183d1965243.yy"
                   }
                 }
               }
@@ -148,7 +149,7 @@
     {
       "resourceType": "GMImageLayer",
       "resourceVersion": "1.0",
-      "name": "8254bcd9-87e3-4bd1-b4b7-a13f876e3cd7",
+      "name": "9f8b8e8c-4807-41c8-982b-ab4eb8091148",
       "visible": true,
       "isLocked": false,
       "blendMode": 0,

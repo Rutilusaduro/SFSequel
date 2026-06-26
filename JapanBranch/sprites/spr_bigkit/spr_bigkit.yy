@@ -1,4 +1,5 @@
 {
+  "$GMSprite": "",
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_bigkit",
@@ -31,15 +32,15 @@
     {
       "resourceType": "GMSpriteFrame",
       "resourceVersion": "1.0",
-      "name": "f7405c96-b418-4fab-9150-1e14eb9d829a",
+      "name": "856d1a29-2f7d-450f-aab2-f06a90ddfa5a",
       "compositeImage": {
         "resourceType": "GMSpriteBitmap",
         "resourceVersion": "1.0",
         "name": "composite.png",
         "For3D": false,
         "FrameId": {
-          "name": "f7405c96-b418-4fab-9150-1e14eb9d829a",
-          "path": "sprites/spr_bigkit/frames/f7405c96-b418-4fab-9150-1e14eb9d829a.yy"
+          "name": "856d1a29-2f7d-450f-aab2-f06a90ddfa5a",
+          "path": "sprites/spr_bigkit/frames/856d1a29-2f7d-450f-aab2-f06a90ddfa5a.yy"
         },
         "LayerId": null
       },
@@ -50,12 +51,12 @@
           "name": "composite.png",
           "For3D": false,
           "FrameId": {
-            "name": "f7405c96-b418-4fab-9150-1e14eb9d829a",
-            "path": "sprites/spr_bigkit/frames/f7405c96-b418-4fab-9150-1e14eb9d829a.yy"
+            "name": "856d1a29-2f7d-450f-aab2-f06a90ddfa5a",
+            "path": "sprites/spr_bigkit/frames/856d1a29-2f7d-450f-aab2-f06a90ddfa5a.yy"
           },
           "LayerId": {
-            "name": "fb87ec25-b9d1-4549-8c78-29424c4a029c",
-            "path": "sprites/spr_bigkit/layers/fb87ec25-b9d1-4549-8c78-29424c4a029c.yy"
+            "name": "f0cec155-c316-4b09-9afc-e460d00db37e",
+            "path": "sprites/spr_bigkit/layers/f0cec155-c316-4b09-9afc-e460d00db37e.yy"
           }
         }
       ]
@@ -93,7 +94,7 @@
             {
               "resourceType": "Keyframe<SpriteFrameKeyframe>",
               "resourceVersion": "1.0",
-              "id": "571c932f-cb6a-4bd0-980f-660dec13485a",
+              "id": "ee557eed-f5b6-44ab-864b-0a32cb952b6f",
               "Key": 0.0,
               "Length": 1.0,
               "Stretch": false,
@@ -104,8 +105,8 @@
                   "resourceType": "SpriteFrameKeyframe",
                   "resourceVersion": "1.0",
                   "Id": {
-                    "name": "f7405c96-b418-4fab-9150-1e14eb9d829a",
-                    "path": "sprites/spr_bigkit/frames/f7405c96-b418-4fab-9150-1e14eb9d829a.yy"
+                    "name": "856d1a29-2f7d-450f-aab2-f06a90ddfa5a",
+                    "path": "sprites/spr_bigkit/frames/856d1a29-2f7d-450f-aab2-f06a90ddfa5a.yy"
                   }
                 }
               }
@@ -148,7 +149,7 @@
     {
       "resourceType": "GMImageLayer",
       "resourceVersion": "1.0",
-      "name": "fb87ec25-b9d1-4549-8c78-29424c4a029c",
+      "name": "f0cec155-c316-4b09-9afc-e460d00db37e",
       "visible": true,
       "isLocked": false,
       "blendMode": 0,

@@ -1,4 +1,5 @@
 {
+  "$GMAudioGroup": "",
   "resourceType": "GMAudioGroup",
   "resourceVersion": "1.0",
   "name": "audiogroup_default",

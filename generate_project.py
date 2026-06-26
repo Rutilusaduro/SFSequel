@@ -60,6 +60,11 @@ def write(rel: str, content) -> None:
         p.write_text(content, encoding="utf-8")
 
 def jdump(obj) -> str:
+    # GMS2 2024.2+ requires "$TypeName": "" as the very first field in every .yy/.yyp file.
+    if isinstance(obj, dict) and "resourceType" in obj:
+        tagged = {"$" + obj["resourceType"]: ""}
+        tagged.update(obj)
+        return json.dumps(tagged, indent=2)
     return json.dumps(obj, indent=2)
 
 # ── PNG generator ─────────────────────────────────────────────────────────────

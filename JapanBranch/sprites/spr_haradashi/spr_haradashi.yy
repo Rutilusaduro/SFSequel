@@ -1,4 +1,5 @@
 {
+  "$GMSprite": "",
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_haradashi",
@@ -31,15 +32,15 @@
     {
       "resourceType": "GMSpriteFrame",
       "resourceVersion": "1.0",
-      "name": "e73a8378-aac2-4c37-b740-2c16c586cbf7",
+      "name": "889e1453-0fec-4f17-bc85-d4f5916a4198",
       "compositeImage": {
         "resourceType": "GMSpriteBitmap",
         "resourceVersion": "1.0",
         "name": "composite.png",
         "For3D": false,
         "FrameId": {
-          "name": "e73a8378-aac2-4c37-b740-2c16c586cbf7",
-          "path": "sprites/spr_haradashi/frames/e73a8378-aac2-4c37-b740-2c16c586cbf7.yy"
+          "name": "889e1453-0fec-4f17-bc85-d4f5916a4198",
+          "path": "sprites/spr_haradashi/frames/889e1453-0fec-4f17-bc85-d4f5916a4198.yy"
         },
         "LayerId": null
       },
@@ -50,12 +51,12 @@
           "name": "composite.png",
           "For3D": false,
           "FrameId": {
-            "name": "e73a8378-aac2-4c37-b740-2c16c586cbf7",
-            "path": "sprites/spr_haradashi/frames/e73a8378-aac2-4c37-b740-2c16c586cbf7.yy"
+            "name": "889e1453-0fec-4f17-bc85-d4f5916a4198",
+            "path": "sprites/spr_haradashi/frames/889e1453-0fec-4f17-bc85-d4f5916a4198.yy"
           },
           "LayerId": {
-            "name": "245dca99-1731-4629-b127-856c6d0453f5",
-            "path": "sprites/spr_haradashi/layers/245dca99-1731-4629-b127-856c6d0453f5.yy"
+            "name": "c7a1010d-324d-4646-a7d5-9dd25dabc534",
+            "path": "sprites/spr_haradashi/layers/c7a1010d-324d-4646-a7d5-9dd25dabc534.yy"
           }
         }
       ]
@@ -93,7 +94,7 @@
             {
               "resourceType": "Keyframe<SpriteFrameKeyframe>",
               "resourceVersion": "1.0",
-              "id": "e339c3a7-bbd2-457e-b2e0-ecd7c4e6e86d",
+              "id": "1e4cc33b-4368-43c6-bedd-d9a1d5d73a20",
               "Key": 0.0,
               "Length": 1.0,
               "Stretch": false,
@@ -104,8 +105,8 @@
                   "resourceType": "SpriteFrameKeyframe",
                   "resourceVersion": "1.0",
                   "Id": {
-                    "name": "e73a8378-aac2-4c37-b740-2c16c586cbf7",
-                    "path": "sprites/spr_haradashi/frames/e73a8378-aac2-4c37-b740-2c16c586cbf7.yy"
+                    "name": "889e1453-0fec-4f17-bc85-d4f5916a4198",
+                    "path": "sprites/spr_haradashi/frames/889e1453-0fec-4f17-bc85-d4f5916a4198.yy"
                   }
                 }
               }
@@ -148,7 +149,7 @@
     {
       "resourceType": "GMImageLayer",
       "resourceVersion": "1.0",
-      "name": "245dca99-1731-4629-b127-856c6d0453f5",
+      "name": "c7a1010d-324d-4646-a7d5-9dd25dabc534",
       "visible": true,
       "isLocked": false,
       "blendMode": 0,

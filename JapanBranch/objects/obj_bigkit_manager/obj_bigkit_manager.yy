@@ -1,4 +1,5 @@
 {
+  "$GMObject": "",
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_bigkit_manager",

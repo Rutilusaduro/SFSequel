@@ -1,4 +1,5 @@
 {
+  "$GMSprite": "",
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_seasnake",
@@ -31,15 +32,15 @@
     {
       "resourceType": "GMSpriteFrame",
       "resourceVersion": "1.0",
-      "name": "e0fdf03d-4d00-49a6-bab5-e08b7249a8a3",
+      "name": "2d70b25c-1254-493a-99d0-5e0e58a98851",
       "compositeImage": {
         "resourceType": "GMSpriteBitmap",
         "resourceVersion": "1.0",
         "name": "composite.png",
         "For3D": false,
         "FrameId": {
-          "name": "e0fdf03d-4d00-49a6-bab5-e08b7249a8a3",
-          "path": "sprites/spr_seasnake/frames/e0fdf03d-4d00-49a6-bab5-e08b7249a8a3.yy"
+          "name": "2d70b25c-1254-493a-99d0-5e0e58a98851",
+          "path": "sprites/spr_seasnake/frames/2d70b25c-1254-493a-99d0-5e0e58a98851.yy"
         },
         "LayerId": null
       },
@@ -50,12 +51,12 @@
           "name": "composite.png",
           "For3D": false,
           "FrameId": {
-            "name": "e0fdf03d-4d00-49a6-bab5-e08b7249a8a3",
-            "path": "sprites/spr_seasnake/frames/e0fdf03d-4d00-49a6-bab5-e08b7249a8a3.yy"
+            "name": "2d70b25c-1254-493a-99d0-5e0e58a98851",
+            "path": "sprites/spr_seasnake/frames/2d70b25c-1254-493a-99d0-5e0e58a98851.yy"
           },
           "LayerId": {
-            "name": "9369da04-9e74-4b0e-ba1c-b00c151581a0",
-            "path": "sprites/spr_seasnake/layers/9369da04-9e74-4b0e-ba1c-b00c151581a0.yy"
+            "name": "5b76b933-afbe-4d9b-a56c-1a57b280e231",
+            "path": "sprites/spr_seasnake/layers/5b76b933-afbe-4d9b-a56c-1a57b280e231.yy"
           }
         }
       ]
@@ -93,7 +94,7 @@
             {
               "resourceType": "Keyframe<SpriteFrameKeyframe>",
               "resourceVersion": "1.0",
-              "id": "fe7daa17-f92d-4162-a7b9-0b04996ecf05",
+              "id": "d7f94433-7342-487a-898b-c87408d5285e",
               "Key": 0.0,
               "Length": 1.0,
               "Stretch": false,
@@ -104,8 +105,8 @@
                   "resourceType": "SpriteFrameKeyframe",
                   "resourceVersion": "1.0",
                   "Id": {
-                    "name": "e0fdf03d-4d00-49a6-bab5-e08b7249a8a3",
-                    "path": "sprites/spr_seasnake/frames/e0fdf03d-4d00-49a6-bab5-e08b7249a8a3.yy"
+                    "name": "2d70b25c-1254-493a-99d0-5e0e58a98851",
+                    "path": "sprites/spr_seasnake/frames/2d70b25c-1254-493a-99d0-5e0e58a98851.yy"
                   }
                 }
               }
@@ -148,7 +149,7 @@
     {
       "resourceType": "GMImageLayer",
       "resourceVersion": "1.0",
-      "name": "9369da04-9e74-4b0e-ba1c-b00c151581a0",
+      "name": "5b76b933-afbe-4d9b-a56c-1a57b280e231",
       "visible": true,
       "isLocked": false,
       "blendMode": 0,

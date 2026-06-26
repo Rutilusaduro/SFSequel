@@ -1,8 +1,9 @@
 {
+  "$GMWindowsOptions": "",
   "resourceType": "GMWindowsOptions",
   "resourceVersion": "1.0",
   "name": "Windows",
-  "option_windows_game_guid": "2f9ee156-a004-4d99-9b51-4252ff1a3935",
+  "option_windows_game_guid": "1f81b2b7-32db-4ee2-b35e-182af453443c",
   "option_windows_display_name": "JapanBranch",
   "option_windows_executable_name": "JapanBranch",
   "option_windows_version": {

@@ -1,4 +1,5 @@
 {
+  "$GMRoom": "",
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
   "name": "rm_breakroom",
@@ -48,7 +49,7 @@
         {
           "resourceType": "GMRInstance",
           "resourceVersion": "1.0",
-          "name": "inst_a3a1651ab9ec",
+          "name": "inst_634c063bdc2a",
           "properties": [],
           "isDnD": false,
           "objectId": {
@@ -70,14 +71,14 @@
           "x": 683.0,
           "y": 384.0,
           "id": {
-            "name": "inst_a3a1651ab9ec",
+            "name": "inst_634c063bdc2a",
             "path": "rooms/rm_breakroom/rm_breakroom.yy"
           }
         },
         {
           "resourceType": "GMRInstance",
           "resourceVersion": "1.0",
-          "name": "inst_559f02d5b6d0",
+          "name": "inst_88560bbe0bdf",
           "properties": [],
           "isDnD": false,
           "objectId": {
@@ -99,7 +100,7 @@
           "x": 341.0,
           "y": 384.0,
           "id": {
-            "name": "inst_559f02d5b6d0",
+            "name": "inst_88560bbe0bdf",
             "path": "rooms/rm_breakroom/rm_breakroom.yy"
           }
         }
@@ -191,11 +192,11 @@
   "inheritCode": false,
   "instanceCreationOrder": [
     {
-      "name": "inst_a3a1651ab9ec",
+      "name": "inst_634c063bdc2a",
       "path": "rooms/rm_breakroom/rm_breakroom.yy"
     },
     {
-      "name": "inst_559f02d5b6d0",
+      "name": "inst_88560bbe0bdf",
       "path": "rooms/rm_breakroom/rm_breakroom.yy"
     }
   ],

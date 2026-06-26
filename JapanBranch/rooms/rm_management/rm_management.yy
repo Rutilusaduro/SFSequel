@@ -1,4 +1,5 @@
 {
+  "$GMRoom": "",
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
   "name": "rm_management",
@@ -48,7 +49,7 @@
         {
           "resourceType": "GMRInstance",
           "resourceVersion": "1.0",
-          "name": "inst_fbec2edcfbfe",
+          "name": "inst_e657d8d920c9",
           "properties": [],
           "isDnD": false,
           "objectId": {
@@ -70,7 +71,7 @@
           "x": 683.0,
           "y": 384.0,
           "id": {
-            "name": "inst_fbec2edcfbfe",
+            "name": "inst_e657d8d920c9",
             "path": "rooms/rm_management/rm_management.yy"
           }
         }
@@ -162,7 +163,7 @@
   "inheritCode": false,
   "instanceCreationOrder": [
     {
-      "name": "inst_fbec2edcfbfe",
+      "name": "inst_e657d8d920c9",
       "path": "rooms/rm_management/rm_management.yy"
     }
   ],

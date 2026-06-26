@@ -1,4 +1,5 @@
 {
+  "$GMSprite": "",
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_food_onigiri",
@@ -31,15 +32,15 @@
     {
       "resourceType": "GMSpriteFrame",
       "resourceVersion": "1.0",
-      "name": "04895a70-66dd-4bd0-9edc-bb6a61df0b60",
+      "name": "ab1cd8aa-96ba-43ac-8e25-92cd4164dc24",
       "compositeImage": {
         "resourceType": "GMSpriteBitmap",
         "resourceVersion": "1.0",
         "name": "composite.png",
         "For3D": false,
         "FrameId": {
-          "name": "04895a70-66dd-4bd0-9edc-bb6a61df0b60",
-          "path": "sprites/spr_food_onigiri/frames/04895a70-66dd-4bd0-9edc-bb6a61df0b60.yy"
+          "name": "ab1cd8aa-96ba-43ac-8e25-92cd4164dc24",
+          "path": "sprites/spr_food_onigiri/frames/ab1cd8aa-96ba-43ac-8e25-92cd4164dc24.yy"
         },
         "LayerId": null
       },
@@ -50,12 +51,12 @@
           "name": "composite.png",
           "For3D": false,
           "FrameId": {
-            "name": "04895a70-66dd-4bd0-9edc-bb6a61df0b60",
-            "path": "sprites/spr_food_onigiri/frames/04895a70-66dd-4bd0-9edc-bb6a61df0b60.yy"
+            "name": "ab1cd8aa-96ba-43ac-8e25-92cd4164dc24",
+            "path": "sprites/spr_food_onigiri/frames/ab1cd8aa-96ba-43ac-8e25-92cd4164dc24.yy"
           },
           "LayerId": {
-            "name": "ce646688-8b02-47ba-a8b1-bf36755e145d",
-            "path": "sprites/spr_food_onigiri/layers/ce646688-8b02-47ba-a8b1-bf36755e145d.yy"
+            "name": "8af8d6fd-6906-433b-81ab-53b51493097d",
+            "path": "sprites/spr_food_onigiri/layers/8af8d6fd-6906-433b-81ab-53b51493097d.yy"
           }
         }
       ]
@@ -93,7 +94,7 @@
             {
               "resourceType": "Keyframe<SpriteFrameKeyframe>",
               "resourceVersion": "1.0",
-              "id": "1c8c5885-da95-4cd6-aa95-23068bb463b4",
+              "id": "a8dc191b-6eac-4a61-8e23-c36483a99c39",
               "Key": 0.0,
               "Length": 1.0,
               "Stretch": false,
@@ -104,8 +105,8 @@
                   "resourceType": "SpriteFrameKeyframe",
                   "resourceVersion": "1.0",
                   "Id": {
-                    "name": "04895a70-66dd-4bd0-9edc-bb6a61df0b60",
-                    "path": "sprites/spr_food_onigiri/frames/04895a70-66dd-4bd0-9edc-bb6a61df0b60.yy"
+                    "name": "ab1cd8aa-96ba-43ac-8e25-92cd4164dc24",
+                    "path": "sprites/spr_food_onigiri/frames/ab1cd8aa-96ba-43ac-8e25-92cd4164dc24.yy"
                   }
                 }
               }
@@ -148,7 +149,7 @@
     {
       "resourceType": "GMImageLayer",
       "resourceVersion": "1.0",
-      "name": "ce646688-8b02-47ba-a8b1-bf36755e145d",
+      "name": "8af8d6fd-6906-433b-81ab-53b51493097d",
       "visible": true,
       "isLocked": false,
       "blendMode": 0,

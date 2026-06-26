@@ -1,5 +1,6 @@
 {
   "$GMScript": "",
+  "%Name": "scr_pair_scenes",
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
   "name": "scr_pair_scenes",

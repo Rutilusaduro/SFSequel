@@ -1,5 +1,6 @@
 {
   "$GMObject": "",
+  "%Name": "obj_vendmachine",
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_vendmachine",

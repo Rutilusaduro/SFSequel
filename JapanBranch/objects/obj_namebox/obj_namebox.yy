@@ -1,5 +1,6 @@
 {
   "$GMObject": "",
+  "%Name": "obj_namebox",
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_namebox",

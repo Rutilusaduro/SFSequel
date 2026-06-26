@@ -1,5 +1,6 @@
 {
   "$GMScript": "",
+  "%Name": "scr_macros",
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
   "name": "scr_macros",

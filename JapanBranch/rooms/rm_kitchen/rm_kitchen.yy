@@ -1,5 +1,6 @@
 {
   "$GMRoom": "",
+  "%Name": "rm_kitchen",
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
   "name": "rm_kitchen",
@@ -49,7 +50,7 @@
         {
           "resourceType": "GMRInstance",
           "resourceVersion": "1.0",
-          "name": "inst_798806b01798",
+          "name": "inst_19262e025a2f",
           "properties": [],
           "isDnD": false,
           "objectId": {
@@ -71,7 +72,7 @@
           "x": 0.0,
           "y": 0.0,
           "id": {
-            "name": "inst_798806b01798",
+            "name": "inst_19262e025a2f",
             "path": "rooms/rm_kitchen/rm_kitchen.yy"
           }
         }
@@ -163,7 +164,7 @@
   "inheritCode": false,
   "instanceCreationOrder": [
     {
-      "name": "inst_798806b01798",
+      "name": "inst_19262e025a2f",
       "path": "rooms/rm_kitchen/rm_kitchen.yy"
     }
   ],

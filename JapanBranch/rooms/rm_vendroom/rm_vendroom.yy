@@ -1,5 +1,6 @@
 {
   "$GMRoom": "",
+  "%Name": "rm_vendroom",
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
   "name": "rm_vendroom",
@@ -49,7 +50,7 @@
         {
           "resourceType": "GMRInstance",
           "resourceVersion": "1.0",
-          "name": "inst_b748f2887cb3",
+          "name": "inst_384a6f0e482c",
           "properties": [],
           "isDnD": false,
           "objectId": {
@@ -71,7 +72,7 @@
           "x": 683.0,
           "y": 384.0,
           "id": {
-            "name": "inst_b748f2887cb3",
+            "name": "inst_384a6f0e482c",
             "path": "rooms/rm_vendroom/rm_vendroom.yy"
           }
         }
@@ -163,7 +164,7 @@
   "inheritCode": false,
   "instanceCreationOrder": [
     {
-      "name": "inst_b748f2887cb3",
+      "name": "inst_384a6f0e482c",
       "path": "rooms/rm_vendroom/rm_vendroom.yy"
     }
   ],

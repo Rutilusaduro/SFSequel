@@ -1,5 +1,6 @@
 {
   "$GMObject": "",
+  "%Name": "obj_incident_manager",
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_incident_manager",

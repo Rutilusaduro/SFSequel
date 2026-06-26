@@ -1,5 +1,6 @@
 {
   "$GMScript": "",
+  "%Name": "scr_callscene",
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
   "name": "scr_callscene",

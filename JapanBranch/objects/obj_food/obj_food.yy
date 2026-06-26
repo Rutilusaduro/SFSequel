@@ -1,5 +1,6 @@
 {
   "$GMObject": "",
+  "%Name": "obj_food",
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_food",

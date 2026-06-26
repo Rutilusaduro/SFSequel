@@ -1,5 +1,6 @@
 {
   "$GMObject": "",
+  "%Name": "obj_bones_manager",
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_bones_manager",

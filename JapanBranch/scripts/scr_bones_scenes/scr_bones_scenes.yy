@@ -1,5 +1,6 @@
 {
   "$GMScript": "",
+  "%Name": "scr_bones_scenes",
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
   "name": "scr_bones_scenes",

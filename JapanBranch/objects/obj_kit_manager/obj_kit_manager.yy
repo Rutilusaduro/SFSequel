@@ -1,5 +1,6 @@
 {
   "$GMObject": "",
+  "%Name": "obj_kit_manager",
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_kit_manager",

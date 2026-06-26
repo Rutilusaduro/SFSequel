@@ -1,9 +1,10 @@
 {
   "$GMMainOptions": "",
+  "%Name": "Main",
   "resourceType": "GMMainOptions",
   "resourceVersion": "1.0",
   "name": "Main",
-  "option_gameguid": "62999660-2e5f-401b-8d15-d0f81452f44b",
+  "option_gameguid": "582e0624-91a2-4bd6-8146-71851508490a",
   "option_game_speed": 60,
   "option_mips_for_3d_textures": false,
   "option_draw_colour": 4294967295,

@@ -1,5 +1,6 @@
 {
   "$GMScript": "",
+  "%Name": "scr_seasnake_scenes",
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
   "name": "scr_seasnake_scenes",

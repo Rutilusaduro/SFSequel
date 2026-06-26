@@ -1,5 +1,6 @@
 {
   "$GMObject": "",
+  "%Name": "obj_global_init",
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_global_init",

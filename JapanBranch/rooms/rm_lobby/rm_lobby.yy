@@ -1,5 +1,6 @@
 {
   "$GMRoom": "",
+  "%Name": "rm_lobby",
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
   "name": "rm_lobby",
@@ -49,7 +50,7 @@
         {
           "resourceType": "GMRInstance",
           "resourceVersion": "1.0",
-          "name": "inst_bd7264ca0e96",
+          "name": "inst_1ff05eabe883",
           "properties": [],
           "isDnD": false,
           "objectId": {
@@ -71,7 +72,7 @@
           "x": 683.0,
           "y": 384.0,
           "id": {
-            "name": "inst_bd7264ca0e96",
+            "name": "inst_1ff05eabe883",
             "path": "rooms/rm_lobby/rm_lobby.yy"
           }
         }
@@ -163,7 +164,7 @@
   "inheritCode": false,
   "instanceCreationOrder": [
     {
-      "name": "inst_bd7264ca0e96",
+      "name": "inst_1ff05eabe883",
       "path": "rooms/rm_lobby/rm_lobby.yy"
     }
   ],

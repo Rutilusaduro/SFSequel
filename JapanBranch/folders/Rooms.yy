@@ -1,5 +1,6 @@
 {
   "$GMFolder": "",
+  "%Name": "Rooms",
   "resourceType": "GMFolder",
   "resourceVersion": "1.0",
   "name": "Rooms",

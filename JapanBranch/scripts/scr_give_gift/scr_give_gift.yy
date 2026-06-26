@@ -1,5 +1,6 @@
 {
   "$GMScript": "",
+  "%Name": "scr_give_gift",
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
   "name": "scr_give_gift",

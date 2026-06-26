@@ -1,5 +1,6 @@
 {
   "$GMSprite": "",
+  "%Name": "spr_food_bento",
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_food_bento",
@@ -32,15 +33,15 @@
     {
       "resourceType": "GMSpriteFrame",
       "resourceVersion": "1.0",
-      "name": "6e430345-8d4a-4f5f-943d-952194e892d1",
+      "name": "511bcf13-63bc-45ee-97e8-a56fa5a30873",
       "compositeImage": {
         "resourceType": "GMSpriteBitmap",
         "resourceVersion": "1.0",
         "name": "composite.png",
         "For3D": false,
         "FrameId": {
-          "name": "6e430345-8d4a-4f5f-943d-952194e892d1",
-          "path": "sprites/spr_food_bento/frames/6e430345-8d4a-4f5f-943d-952194e892d1.yy"
+          "name": "511bcf13-63bc-45ee-97e8-a56fa5a30873",
+          "path": "sprites/spr_food_bento/frames/511bcf13-63bc-45ee-97e8-a56fa5a30873.yy"
         },
         "LayerId": null
       },
@@ -51,12 +52,12 @@
           "name": "composite.png",
           "For3D": false,
           "FrameId": {
-            "name": "6e430345-8d4a-4f5f-943d-952194e892d1",
-            "path": "sprites/spr_food_bento/frames/6e430345-8d4a-4f5f-943d-952194e892d1.yy"
+            "name": "511bcf13-63bc-45ee-97e8-a56fa5a30873",
+            "path": "sprites/spr_food_bento/frames/511bcf13-63bc-45ee-97e8-a56fa5a30873.yy"
           },
           "LayerId": {
-            "name": "08b4c4ef-197c-48c5-b250-dc1377db25de",
-            "path": "sprites/spr_food_bento/layers/08b4c4ef-197c-48c5-b250-dc1377db25de.yy"
+            "name": "036f2ad4-5c4c-4c1e-affe-7e40d883f1ea",
+            "path": "sprites/spr_food_bento/layers/036f2ad4-5c4c-4c1e-affe-7e40d883f1ea.yy"
           }
         }
       ]
@@ -94,7 +95,7 @@
             {
               "resourceType": "Keyframe<SpriteFrameKeyframe>",
               "resourceVersion": "1.0",
-              "id": "3b23b372-6333-4148-8fdf-8613fdebebc3",
+              "id": "575ef2b3-1c6a-4adb-b146-f3a6f53a56b7",
               "Key": 0.0,
               "Length": 1.0,
               "Stretch": false,
@@ -105,8 +106,8 @@
                   "resourceType": "SpriteFrameKeyframe",
                   "resourceVersion": "1.0",
                   "Id": {
-                    "name": "6e430345-8d4a-4f5f-943d-952194e892d1",
-                    "path": "sprites/spr_food_bento/frames/6e430345-8d4a-4f5f-943d-952194e892d1.yy"
+                    "name": "511bcf13-63bc-45ee-97e8-a56fa5a30873",
+                    "path": "sprites/spr_food_bento/frames/511bcf13-63bc-45ee-97e8-a56fa5a30873.yy"
                   }
                 }
               }
@@ -149,7 +150,7 @@
     {
       "resourceType": "GMImageLayer",
       "resourceVersion": "1.0",
-      "name": "08b4c4ef-197c-48c5-b250-dc1377db25de",
+      "name": "036f2ad4-5c4c-4c1e-affe-7e40d883f1ea",
       "visible": true,
       "isLocked": false,
       "blendMode": 0,

@@ -1,5 +1,6 @@
 {
   "$GMSprite": "",
+  "%Name": "spr_food_kaiseki",
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_food_kaiseki",
@@ -32,15 +33,15 @@
     {
       "resourceType": "GMSpriteFrame",
       "resourceVersion": "1.0",
-      "name": "44bd5d51-dc8d-4005-9938-9ab8be44662f",
+      "name": "4d32de3d-2cf4-41dc-bfaf-183d94c0f72a",
       "compositeImage": {
         "resourceType": "GMSpriteBitmap",
         "resourceVersion": "1.0",
         "name": "composite.png",
         "For3D": false,
         "FrameId": {
-          "name": "44bd5d51-dc8d-4005-9938-9ab8be44662f",
-          "path": "sprites/spr_food_kaiseki/frames/44bd5d51-dc8d-4005-9938-9ab8be44662f.yy"
+          "name": "4d32de3d-2cf4-41dc-bfaf-183d94c0f72a",
+          "path": "sprites/spr_food_kaiseki/frames/4d32de3d-2cf4-41dc-bfaf-183d94c0f72a.yy"
         },
         "LayerId": null
       },
@@ -51,12 +52,12 @@
           "name": "composite.png",
           "For3D": false,
           "FrameId": {
-            "name": "44bd5d51-dc8d-4005-9938-9ab8be44662f",
-            "path": "sprites/spr_food_kaiseki/frames/44bd5d51-dc8d-4005-9938-9ab8be44662f.yy"
+            "name": "4d32de3d-2cf4-41dc-bfaf-183d94c0f72a",
+            "path": "sprites/spr_food_kaiseki/frames/4d32de3d-2cf4-41dc-bfaf-183d94c0f72a.yy"
           },
           "LayerId": {
-            "name": "db6db1cb-2f04-42b6-b5dc-ae42d7c77db5",
-            "path": "sprites/spr_food_kaiseki/layers/db6db1cb-2f04-42b6-b5dc-ae42d7c77db5.yy"
+            "name": "46b8d388-82d0-4ce6-89cc-485131bb9b9f",
+            "path": "sprites/spr_food_kaiseki/layers/46b8d388-82d0-4ce6-89cc-485131bb9b9f.yy"
           }
         }
       ]
@@ -94,7 +95,7 @@
             {
               "resourceType": "Keyframe<SpriteFrameKeyframe>",
               "resourceVersion": "1.0",
-              "id": "326cb547-695d-4483-a7a6-878c6fef1cbb",
+              "id": "a77211b8-c3d3-4cae-a516-942c67c025c8",
               "Key": 0.0,
               "Length": 1.0,
               "Stretch": false,
@@ -105,8 +106,8 @@
                   "resourceType": "SpriteFrameKeyframe",
                   "resourceVersion": "1.0",
                   "Id": {
-                    "name": "44bd5d51-dc8d-4005-9938-9ab8be44662f",
-                    "path": "sprites/spr_food_kaiseki/frames/44bd5d51-dc8d-4005-9938-9ab8be44662f.yy"
+                    "name": "4d32de3d-2cf4-41dc-bfaf-183d94c0f72a",
+                    "path": "sprites/spr_food_kaiseki/frames/4d32de3d-2cf4-41dc-bfaf-183d94c0f72a.yy"
                   }
                 }
               }
@@ -149,7 +150,7 @@
     {
       "resourceType": "GMImageLayer",
       "resourceVersion": "1.0",
-      "name": "db6db1cb-2f04-42b6-b5dc-ae42d7c77db5",
+      "name": "46b8d388-82d0-4ce6-89cc-485131bb9b9f",
       "visible": true,
       "isLocked": false,
       "blendMode": 0,

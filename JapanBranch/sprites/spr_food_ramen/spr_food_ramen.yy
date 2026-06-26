@@ -1,5 +1,6 @@
 {
   "$GMSprite": "",
+  "%Name": "spr_food_ramen",
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_food_ramen",
@@ -32,15 +33,15 @@
     {
       "resourceType": "GMSpriteFrame",
       "resourceVersion": "1.0",
-      "name": "18e3ef1f-b8dd-471b-82ba-f72b96817df4",
+      "name": "96006481-bec4-4c6d-a375-e7ff12eb531a",
       "compositeImage": {
         "resourceType": "GMSpriteBitmap",
         "resourceVersion": "1.0",
         "name": "composite.png",
         "For3D": false,
         "FrameId": {
-          "name": "18e3ef1f-b8dd-471b-82ba-f72b96817df4",
-          "path": "sprites/spr_food_ramen/frames/18e3ef1f-b8dd-471b-82ba-f72b96817df4.yy"
+          "name": "96006481-bec4-4c6d-a375-e7ff12eb531a",
+          "path": "sprites/spr_food_ramen/frames/96006481-bec4-4c6d-a375-e7ff12eb531a.yy"
         },
         "LayerId": null
       },
@@ -51,12 +52,12 @@
           "name": "composite.png",
           "For3D": false,
           "FrameId": {
-            "name": "18e3ef1f-b8dd-471b-82ba-f72b96817df4",
-            "path": "sprites/spr_food_ramen/frames/18e3ef1f-b8dd-471b-82ba-f72b96817df4.yy"
+            "name": "96006481-bec4-4c6d-a375-e7ff12eb531a",
+            "path": "sprites/spr_food_ramen/frames/96006481-bec4-4c6d-a375-e7ff12eb531a.yy"
           },
           "LayerId": {
-            "name": "9dd07586-29e2-4949-afec-2019da4353d2",
-            "path": "sprites/spr_food_ramen/layers/9dd07586-29e2-4949-afec-2019da4353d2.yy"
+            "name": "30c5a32d-5d13-43f1-adf1-a38190a13916",
+            "path": "sprites/spr_food_ramen/layers/30c5a32d-5d13-43f1-adf1-a38190a13916.yy"
           }
         }
       ]
@@ -94,7 +95,7 @@
             {
               "resourceType": "Keyframe<SpriteFrameKeyframe>",
               "resourceVersion": "1.0",
-              "id": "fef137a6-6cff-4201-ae4b-a582fe49bf18",
+              "id": "9924a7c0-d20d-4e1f-a174-f853b0be8127",
               "Key": 0.0,
               "Length": 1.0,
               "Stretch": false,
@@ -105,8 +106,8 @@
                   "resourceType": "SpriteFrameKeyframe",
                   "resourceVersion": "1.0",
                   "Id": {
-                    "name": "18e3ef1f-b8dd-471b-82ba-f72b96817df4",
-                    "path": "sprites/spr_food_ramen/frames/18e3ef1f-b8dd-471b-82ba-f72b96817df4.yy"
+                    "name": "96006481-bec4-4c6d-a375-e7ff12eb531a",
+                    "path": "sprites/spr_food_ramen/frames/96006481-bec4-4c6d-a375-e7ff12eb531a.yy"
                   }
                 }
               }
@@ -149,7 +150,7 @@
     {
       "resourceType": "GMImageLayer",
       "resourceVersion": "1.0",
-      "name": "9dd07586-29e2-4949-afec-2019da4353d2",
+      "name": "30c5a32d-5d13-43f1-adf1-a38190a13916",
       "visible": true,
       "isLocked": false,
       "blendMode": 0,

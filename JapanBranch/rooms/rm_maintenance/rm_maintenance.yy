@@ -1,5 +1,6 @@
 {
   "$GMRoom": "",
+  "%Name": "rm_maintenance",
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
   "name": "rm_maintenance",
@@ -49,7 +50,7 @@
         {
           "resourceType": "GMRInstance",
           "resourceVersion": "1.0",
-          "name": "inst_433da3caa627",
+          "name": "inst_85e1cace1a85",
           "properties": [],
           "isDnD": false,
           "objectId": {
@@ -71,7 +72,7 @@
           "x": 683.0,
           "y": 384.0,
           "id": {
-            "name": "inst_433da3caa627",
+            "name": "inst_85e1cace1a85",
             "path": "rooms/rm_maintenance/rm_maintenance.yy"
           }
         }
@@ -163,7 +164,7 @@
   "inheritCode": false,
   "instanceCreationOrder": [
     {
-      "name": "inst_433da3caa627",
+      "name": "inst_85e1cace1a85",
       "path": "rooms/rm_maintenance/rm_maintenance.yy"
     }
   ],

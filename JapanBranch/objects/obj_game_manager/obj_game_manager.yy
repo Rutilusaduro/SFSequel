@@ -1,5 +1,6 @@
 {
   "$GMObject": "",
+  "%Name": "obj_game_manager",
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_game_manager",
